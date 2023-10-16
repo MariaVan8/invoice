@@ -21,6 +21,7 @@
     gap: 1.5rem; 
     align-items: center; 
     margin-bottom: 2rem; 
+    margin-top: 1rem;
   }
   
   .header-left {
@@ -42,6 +43,10 @@
     padding-top: 0.5rem;
   }
   
+  .header-last{
+    align-self: normal;
+    margin-top: 1rem;
+  }
 
   .info-container {
     display: grid;
